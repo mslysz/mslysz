@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋 I'm Maciej<br> I’m currently learning HTML, CSS and JavaScript
+Hello 👋 I'm Maciej<br> I’m currently learning JavaScript and React.
 
 
 
