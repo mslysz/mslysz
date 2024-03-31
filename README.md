@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello 👋 I'm Maciej<br> I’m currently learning JavaScript and React.
-
+Hello 👋 I'm Maciej<br> I’m currently learning JavaScript and React.<br>
+You can contact me at macslysz@gmail.com
 
 
 
