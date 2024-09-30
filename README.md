@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello 👋 I'm Maciej<br> I’m currently learning JavaScript and React.<br>
-I am willing to cooperate and collaborate.<br>
+I am open to co-operation and collaboration.<br>
 
 
 
